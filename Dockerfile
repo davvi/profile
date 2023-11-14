@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:latest AS builder
 
 # Install Hugo
 RUN apk add --no-cache hugo
@@ -15,5 +15,6 @@ EXPOSE 1313
 # Automatically build the site
 RUN hugo
 
-# Serve the site on Hugo's default port
-CMD ["hugo", "server", "-D", "--bind", "0.0.0.0"]
+FROM nginx:stable
+
+COPY --from=builder /usr/share/profile/public/ /usr/share/nginx/html/
