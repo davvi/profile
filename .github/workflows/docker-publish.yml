@@ -3,6 +3,7 @@ name: Docker
 on:
   release:
     types: [published]
+    tags: [ 'v*.*.*' ]
 
 env:
   REGISTRY: ghcr.io
