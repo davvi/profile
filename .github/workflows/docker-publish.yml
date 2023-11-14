@@ -8,16 +8,28 @@ on:
     tags: [ 'v*.*.*' ]
 
 env:
-  IMAGE_NAME: davvi/profile
+  REPOSITORY: public.ecr.aws/b2e0c4a7
+  IMAGE_NAME: profile
 
 jobs:
-  login-to-amazon-ecr:
+  build_and_deliver:
+    permissions:
+      id-token: write
+      contents: read
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Pull & update submodules recursively
+        run: |
+          git submodule update --init --recursive
+          git submodule update --recursive --remote
+    
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::277849753341:role/ECRLoginPush
+          role-to-assume: arn:aws:iam::277849753341:role/GithubECR
           aws-region: us-east-1
           mask-aws-account-id: 'false'
 
@@ -25,19 +37,8 @@ jobs:
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v2
         with:
+          # registry-type: public
           mask-password: 'false'
-          
-    outputs:
-      registry: ${{ steps.login-ecr.outputs.registry }}
-      docker_username: ${{ steps.login-ecr.outputs.docker_username_277849753341_dkr_ecr_us_east_1_amazonaws_com }} 
-      docker_password: ${{ steps.login-ecr.outputs.docker_password_277849753341_dkr_ecr_us_east_1_amazonaws_com }}
-  
-  build-and-push-image:
-    needs: login-to-amazon-ecr
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
       - name: Extract Metadata
         id: meta
@@ -45,13 +46,6 @@ jobs:
         with:
           images: ${{ steps.login-ecr.outputs.registry }}/${{ env.IMAGE_NAME }}
 
-      - name: Login to GitHub Container Registry
-        uses: docker/login-action@v3
-        with:
-          registry: ${{ steps.login-ecr.outputs.registry }}
-          username: ${{ steps.login-ecr.outputs.docker_username }}
-          password: ${{ steps.login-ecr.outputs.docker_password }}
-      
       - name: Build and push Docker image to ECR
         id: build-and-push
         uses: docker/build-push-action@v5.0.0
@@ -60,5 +54,3 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
