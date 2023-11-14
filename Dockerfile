@@ -17,4 +17,6 @@ RUN hugo
 
 FROM nginx:stable
 
+RUN rm -rf /usr/share/nginx/html/*
+
 COPY --from=builder /usr/share/profile/public/ /usr/share/nginx/html/
