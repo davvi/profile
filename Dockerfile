@@ -9,9 +9,6 @@ WORKDIR /usr/share/profile
 # Copy the contents of your project into the container
 COPY . .
 
-# Expose the default Hugo port
-EXPOSE 1313
-
 # Automatically build the site
 RUN hugo
 
