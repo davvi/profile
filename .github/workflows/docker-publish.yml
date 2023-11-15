@@ -8,8 +8,7 @@ on:
     tags: [ 'v*.*.*' ]
 
 env:
-  REPOSITORY: public.ecr.aws/b2e0c4a7
-  IMAGE_NAME: profile
+  IMAGE_NAME: b2e0c4a7/davvi_io
 
 jobs:
   build_and_deliver:
@@ -37,7 +36,7 @@ jobs:
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v2
         with:
-          # registry-type: public
+          registry-type: public
           mask-password: 'false'
 
       - name: Extract Metadata
