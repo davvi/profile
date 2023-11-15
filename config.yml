@@ -64,13 +64,13 @@ params:
     imageTitle: my image
     buttons:
       - name: Blog
-        url: blog
+        url: https://codemech.dev
       - name: Podcast
-        url: podcast
+        url: https://codemech.dev/podcast
       - name: Projects
-        url: projects
+        url: /projects
       - name: Info
-        url: info
+        url: /info
 
   socialIcons:
     - name: github
