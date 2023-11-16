@@ -60,14 +60,12 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Blog
+      - name: Blog & Podcast
         url: https://codemech.dev
-      - name: Podcast
-        url: https://codemech.dev/podcast
       - name: Projects
         url: /projects
-      - name: Info
-        url: /info
+      - name: Career
+        url: /career
 
   socialIcons:
     - name: email
