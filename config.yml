@@ -70,6 +70,8 @@ params:
         url: /info
 
   socialIcons:
+    - name: email
+      url: "mailto:contact@davvi.io"
     - name: github
       url: "https://github.com/davvi"
     - name: linkedin
