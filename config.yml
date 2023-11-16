@@ -1,4 +1,3 @@
-title: Davvi
 paginate: 5
 theme: PaperMod
 
@@ -15,7 +14,6 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Davvi
   description: "Modern technologies inside out, from the perspective of a software engineer."
   keywords: [Blog, Portfolio, Business]
   author: Sargisyan Davit
@@ -56,7 +54,6 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Davvi
     subtitle: "🌟 Hi there! Explore my deep-dive insights on my blog 💻, listen to my first steps into tech talks on my podcast 🎙, and view my professional journey on my pet projects 📄. Connect, learn, and be inspired! 🚀"
     imageUrl: avatar.png
     imageWidth: 120
