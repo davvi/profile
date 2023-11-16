@@ -23,12 +23,12 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: false
-  ShowPostNavLinks: false
-  ShowBreadCrumbs: false
-  ShowCodeCopyButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
-  UseHugoToc: false
+  UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
