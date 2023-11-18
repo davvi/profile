@@ -6,7 +6,7 @@ draft: false
 ---
 
 ## **Summary**
-Works in IT for over 7 years as a software engineer. Has vast expertise in working on high-loaded telecommunication systems and complex large databases. Developed an autonomous virtual call center/call assistant based on a neural network integrated with CRM generated VoiceXML and automated Avaya/Asterisk. Founded and technically architected “4bit” - a full-cycle IoT solution based on FreeRTOS AWS Greengrass and STM32 microcontrollers with graphic and ML acceleration. Currently working as a Lead Java Developer at Ascalon Technologies engaged in the development of a highly secure system in the field of digital forensics.
+Works in IT for over 8 years as a software engineer. Has vast expertise in working on high-loaded telecommunication systems and complex large databases. Developed an autonomous virtual call center/call assistant based on a neural network integrated with CRM generated VoiceXML and automated Avaya/Asterisk. Founded and technically architected “4bit” - a full-cycle IoT solution based on FreeRTOS AWS Greengrass and STM32 microcontrollers with graphic and ML acceleration. Currently working as a Lead Java Developer at Ascalon Technologies engaged in the development of a highly secure system in the field of digital forensics.
 
 ---
 
@@ -16,6 +16,20 @@ Works in IT for over 7 years as a software engineer. Has vast expertise in worki
   - *October 2016*
 
 ---
+
+## **Skills**
+- **Advanced Java Concepts:** Multithreading, Concurrency, JVM internals, and performance optimization
+- **Data Structures and Algorithms:** Expertise in crafting efficient, scalable code solutions
+- **Problem-Solving and Analytical Skills:** "Strategic Problem-Solving & Analytical Insight: Expert in identifying and resolving complex software challenges."
+- **Advanced Research Expertise:** Demonstrated ability in leading and contributing to groundbreaking technology research.
+- **Dynamic Leadership & Project Management:** Proven track record in successfully managing and delivering complex IT projects.
+- **Collaborative Development Tools:** Git, Docker, and CI/CD pipelines
+
+---
+
+## **Languages**
+*Russian, Armenian, English*
+
 
 ## **Experience**
 - **Lead Java Developer**
@@ -52,13 +66,3 @@ Works in IT for over 7 years as a software engineer. Has vast expertise in worki
   - *Naked-Science Magazine, Yerevan*
   - *August 2012 - February 2015*
   - Led a column in the journal, promoted social networks, and developed communities.
-
----
-
-## **Skills**
-*Java, Security, Docker, CI/CD, Linux, SQL, NoSQL, Elasticsearch, JavaScript, Network Protocols*
-
----
-
-## **Languages**
-*Russian, Armenian, English*
