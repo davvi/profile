@@ -9,10 +9,10 @@ draft: false
 - **URL**: [4bit.dev](https://4bit.dev)
 - **Tags**: #IoT #FreeRTOS #AWSGreengrass #STM32 #ML #Graphics
 
-## HowLong
+## Cuckoos
 
 - **Description**: The web application visualizes potential Longines lifestyle options based on scientific research through a short lifestyle questionnaire.
-- **URL**: [long.davvi.io](https://long.davvi.io)
+- **URL**: [cuckoos.io](https://cuckoos.io)
 - **Tags**: #WebApp #Lifestyle #Visualization #ScientificResearch
 
 ## CodeMechanics
