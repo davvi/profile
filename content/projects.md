@@ -1,10 +1,6 @@
 ---
 title: "Projects"
 draft: false
-editPost:
-        URL: "https://github.com/davvi/profile/blob/main/content/projects.md"
-        Text: "Suggest Changes" # edit text 
-        appendFilePath: false # to append file path to Edit link
 ---
 
 ## 4bit
