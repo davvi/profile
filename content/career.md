@@ -6,7 +6,9 @@ draft: false
 ---
 
 ## **Summary**
-Works in IT for over 8 years as a software engineer. Has vast expertise in working on high-loaded telecommunication systems and complex large databases. Developed an autonomous virtual call center/call assistant based on a neural network integrated with CRM generated VoiceXML and automated Avaya/Asterisk. Founded and technically architected “4bit” - a full-cycle IoT solution based on FreeRTOS AWS Greengrass and STM32 microcontrollers with graphic and ML acceleration. Currently working as a Lead Java Developer at Ascalon Technologies engaged in the development of a highly secure system in the field of digital forensics.
+An experienced IT professional with over eight years in the field, I specialize in Java development, DevOps, and cloud technologies, with expertise in Docker, AWS, and Google Cloud Platform. My background includes developing high-security systems, managing complex databases using SQL, NoSQL, and Elasticsearch, and leading high-load telecommunication projects. I have had notable achievements in creating an AI-driven, autonomous virtual call center and founding a full-cycle IoT solution with AWS Greengrass and STM32 microcontrollers.
+
+Skilled in Python, Java, C, and frameworks like Spring, I also excel in CI/CD processes, microservices architecture, and team leadership. My DevOps experience is backed by proficiency in Jenkins and GitHub Actions. I'm recognized for solid problem-solving, communication, teamwork, and a commitment to continuous learning in the fast-evolving IT landscape.
 
 ---
 
