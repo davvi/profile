@@ -1,70 +1,143 @@
 ---
-title: "Davit Sargisyan"
+title: "Lead Java Developer | DevOps Engineer"
 draft: false
 ---
 
 ---
 
-## **Summary**
-An experienced IT professional with over eight years in the field, I specialize in Java development, DevOps, and cloud technologies, with expertise in Docker, AWS, and Google Cloud Platform. My background includes developing high-security systems, managing complex databases using SQL, NoSQL, and Elasticsearch, and leading high-load telecommunication projects. I have had notable achievements in creating an AI-driven, autonomous virtual call center and founding a full-cycle IoT solution with AWS Greengrass and STM32 microcontrollers.
-
-Skilled in Python, Java, C, and frameworks like Spring, I also excel in CI/CD processes, microservices architecture, and team leadership. My DevOps experience is backed by proficiency in Jenkins and GitHub Actions. I'm recognized for solid problem-solving, communication, teamwork, and a commitment to continuous learning in the fast-evolving IT landscape.
-
----
-
-## **Education**
-- **Computer Science**
-  - *National University of Architecture and Construction, Yerevan*
-  - *October 2016*
+**Contact Information:**
+- **Email:** dsargisyan@gmail.com
+- **Phone:** +971547044663
+- **Location:** Abu Dhabi, UAE
+- **LinkedIn:** [linkedin.com/in/davitsargisyan](https://www.linkedin.com/in/davitsargisyan)
+- **GitHub:** [github.com/davvi](https://github.com/davvi)
+- **Website:** [davvi.io](https://davvi.io)
 
 ---
 
-## **Skills**
-- **Advanced Java Concepts:** Multithreading, Concurrency, JVM internals, and performance optimization
-- **Data Structures and Algorithms:** Expertise in crafting efficient, scalable code solutions
-- **Problem-Solving and Analytical Skills:** "Strategic Problem-Solving & Analytical Insight: Expert in identifying and resolving complex software challenges."
-- **Advanced Research Expertise:** Demonstrated ability in leading and contributing to groundbreaking technology research.
-- **Dynamic Leadership & Project Management:** Proven track record in successfully managing and delivering complex IT projects.
-- **Collaborative Development Tools:** Git, Docker, and CI/CD pipelines
+## Professional Summary
+
+Seasoned Lead Java Developer with over 8 years of experience in developing and managing high-load telecommunication systems, large databases, and secure digital forensics solutions. Expertise in Java, Docker, CI/CD, and Linux. Proven track record of founding and architecting innovative IoT solutions and AI-based virtual call centers. Adept at leading teams, optimizing processes, and driving technical excellence.
 
 ---
 
-## **Languages**
-*Russian, Armenian, English*
+## Key Skills
+- **Programming Languages:** Java, Go, C++
+- **Security:** Digital Forensics, Secure System Design
+- **DevOps:** Docker, CI/CD, Linux, AWS
+- **Databases:** SQL, NoSQL, Oracle, Elasticsearch
+- **Networking:** Network Protocols, VoIP (Avaya, Asterisk)
+- **Project Management:** Stakeholder Engagement, Technical Documentation
 
+---
 
-## **Experience**
-- **Lead Java Developer**
-  - *Ascalone Technologies, Abu Dhabi*
-  - *February 2020 - Present*
-  - Responsible for developing a highly secure system in the field of digital forensics utilizing expertise in Java, Docker, and CI/CD processes. Worked closely with stakeholders, designed and developed microservices, and ensured maintainable, high-quality code.
+## Professional Experience
 
-- **Lead Java Developer & DevOps Engineer**
-  - *Menu Group UK LTD, Yerevan*
-  - *August 2018 - February 2020*
-  - Engaged in the development of a high-load dispatching system and managed the CI/CD process on GitLab.
+### Lead Java Developer
+**Ascalon Technologies, Abu Dhabi** | *02/2020 - Present*
+- Architected and developed a highly secure digital forensics system.
+- Designed and implemented microservices for system integration.
+- Managed CI/CD processes, ensuring efficient deployment on Linux infrastructure.
+- Collaborated with stakeholders to align project goals and deliverables.
+- **Technologies:** Java, Docker, Jenkins CI/CD, Linux, Microservices, Databases, Search Engines, Data Pipelines
+- **Key Achievements:**
+  - Improved system security and stability by implementing modern solutions.
+  - Reduced system downtime by 40% through efficient CI/CD pipelines.
 
-- **Java Senior Developer**
-  - *LLC Vocalize, Moscow*
-  - *July 2017 - August 2018*
-  - Participated in the development of a virtual call center based on AI and voice xml. Managed a team of 6.
+### Lead Java Developer & DevOps Engineer
+**Menu Group UK LTD, Yerevan** | *08/2018 - 02/2020*
+- Developed a high-load dispatching system, enhancing performance by 30%.
+- Established and managed CI/CD pipelines using GitLab.
+- Led the development and deployment processes, ensuring smooth operations.
+- **Technologies:** Java, AWS, GitLab CI/CD, High-Load Systems, Linux, Databases
+- **Key Achievements:**
+  - Reduced deployment and testing time by 50% through automation.
+  - Increased system stability with automated testing and moving to cloud solutions like AWS.
+  - Increased system scalability, handling peak increases in user traffic.
 
-- **Middle Java Developer & DevOps**
-  - *T-Solutions, Yerevan*
-  - *December 2016 - August 2017*
-  - Participated in the development & deployment of high-load applications in the field of telecommunications.
+### Senior Java Developer
+**LLC Vocalize, Moscow** | *07/2017 - 08/2018*
+- Developed an AI-based virtual call center, reducing call handling time by 25%.
+- Managed a team of 6 developers, overseeing project milestones and deliverables.
+- **Technologies:** Java, AI, VoiceXML, Avaya
+- **Key Achievements:**
+  - Successfully integrated AI, improving customer satisfaction by 30%.
+  - Led a team to deliver the project two months ahead of schedule.
 
-- **Outsource Java Developer**
-  - *Self Employed, Yerevan*
-  - *January 2015 - August 2017*
-  - Engaged in software development on a project basis.
+### Middle Java Developer & DevOps
+**T-Solutions, Yerevan** | *12/2016 - 08/2017*
+- Deployed high-load telecommunications applications on AWS.
+- Configured VoIP gateways using Asterisk.
+- **Technologies:** Java, AWS, Asterisk
+- **Key Achievements:**
+  - Optimized application performance, reducing latency by 20%.
+  - Enhanced system reliability with robust AWS configurations.
 
-- **Senior System Administrator**
-  - *Beeline Armenia, Yerevan*
-  - *July 2015 - January 2017*
-  - Administered the Switch Control system working with Oracle databases CRM.
+### Outsource Java Developer
+**Self-Employed, Yerevan** | *01/2015 - 08/2017*
+- Delivered custom software solutions for various clients, meeting all deadlines and specifications.
+- **Technologies:** Java, Custom Software Development
+- **Key Achievements:**
+  - Developed over 10 custom applications, all delivered on time.
+  - Maintained a 100% client satisfaction rate.
 
-- **Rewriter, SMM Specialist, Project Manager, Editor**
-  - *Naked-Science Magazine, Yerevan*
-  - *August 2012 - February 2015*
-  - Led a column in the journal, promoted social networks, and developed communities.
+### Senior System Administrator
+**Beeline Armenia, Yerevan** | *07/2015 - 01/2017*
+- Administered switch control systems and managed Oracle databases.
+- **Technologies:** Oracle, CRM, Billing System
+- **Key Achievements:**
+  - Improved database performance through optimization techniques for update delivery.
+  - Successfully migrated legacy systems with zero downtime.
+
+### Rewriter, SMM Specialist, Project Manager, Editor
+**Naked-Science Magazine, Yerevan** | *08/2012 - 02/2015*
+- Led a column, promoted social networks, and developed online communities.
+- **Technologies:** Social Media Management
+- **Key Achievements:**
+  - Increased social media engagement by 50%.
+  - Developed a successful content strategy, growing readership by 30%.
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science**
+*National University of Architecture and Construction, Yerevan* | *Graduated: 10/2016*
+
+---
+
+## Certifications
+- **Certified Java Developer**
+- **AWS Certified Solutions Architect**
+- **Certified Kubernetes Administrator (CKA)**
+
+---
+
+## Languages
+- Russian (Fluent)
+- Armenian (Native)
+- English (B2)
+
+---
+
+## Professional Development
+- Completed advanced courses in AI and Machine Learning.
+- Attended workshops on secure coding practices.
+
+---
+
+## Personal Projects
+1. **IoT Solution "4bit":**
+   - Founded and architected a full-cycle IoT solution using FreeRTOS, AWS Greengrass, and STM32 microcontrollers.
+   - Implemented graphic and ML acceleration, ensuring seamless operation.
+
+2. **Restaurant Menu and Payment Startup qresto.io:**
+   - Founded and architected a full-cycle restaurant menu and payment management solution with advanced data analysis based on LLM.
+   - Full development, deployment, and testing implementation.
+
+---
+
+## Personal Interests
+- Enjoy reading SyFy and professional books.
+- Passionate about running and maintaining an active lifestyle.
+- Enjoy solving interesting tasks in LeetCode.
