@@ -1,143 +1,87 @@
 ---
-title: "Lead Java Developer | DevOps Engineer"
+title: "Senior Java & Go Developer | DevOps Engineer"
 draft: false
 ---
 
 ---
 
 **Contact Information:**
-- **Email:** dsargisyan@gmail.com
-- **Phone:** +971547044663
+- **Email:** hi@davvi.io
 - **Location:** Abu Dhabi, UAE
-- **LinkedIn:** [linkedin.com/in/davitsargisyan](https://www.linkedin.com/in/davitsargisyan)
+- **LinkedIn:** [linkedin.com/in/dsargisyan](https://www.linkedin.com/in/dsargisyan/)
 - **GitHub:** [github.com/davvi](https://github.com/davvi)
 - **Website:** [davvi.io](https://davvi.io)
 
 ---
 
-## Professional Summary
+## Profile
 
-Seasoned Lead Java Developer with over 8 years of experience in developing and managing high-load telecommunication systems, large databases, and secure digital forensics solutions. Expertise in Java, Docker, CI/CD, and Linux. Proven track record of founding and architecting innovative IoT solutions and AI-based virtual call centers. Adept at leading teams, optimizing processes, and driving technical excellence.
+Innovative Senior Java & Go Developer with 10+ years of experience in high-load distributed systems, secure cloud-native applications, and DevOps automation. Proven track record in designing and delivering mission-critical solutions in governmental security, telecommunications, fintech, and e-commerce. Skilled in leading teams, optimizing architectures, and ensuring compliance with strict security standards.
 
 ---
 
-## Key Skills
-- **Programming Languages:** Java, Go, C++
-- **Security:** Digital Forensics, Secure System Design
-- **DevOps:** Docker, CI/CD, Linux, AWS
-- **Databases:** SQL, NoSQL, Oracle, Elasticsearch
-- **Networking:** Network Protocols, VoIP (Avaya, Asterisk)
-- **Project Management:** Stakeholder Engagement, Technical Documentation
+## Core Competencies
+
+- **Programming:** Java, Go, Spring Boot, REST, Microservices, Quarkus, Micronaut
+- **Cloud & DevOps:** AWS, Kubernetes, k3s, Docker, Helm, GitLab CI/CD, GitHub Actions, Jenkins, Linux, Ansible, Terraform
+- **Databases:** SQL, NoSQL, PostgreSQL, MongoDB, Redis, Elasticsearch, Oracle
+- **Security:** Encryption protocols, OAuth2, OpenID Connect, Keycloak, secure architecture design, compliance standards
+- **Tools & Methods:** Jira, Confluence, Agile/Scrum, Prometheus, Grafana
+- **Domains:** Governmental Security, Telecommunications, Fintech, E-commerce
+- **Languages:** Russian (native), Armenian (native), English (upper-intermediate)
 
 ---
 
 ## Professional Experience
 
 ### Lead Java Developer
-**Ascalon Technologies, Abu Dhabi** | *02/2020 - Present*
-- Architected and developed a highly secure digital forensics system.
-- Designed and implemented microservices for system integration.
-- Managed CI/CD processes, ensuring efficient deployment on Linux infrastructure.
-- Collaborated with stakeholders to align project goals and deliverables.
-- **Technologies:** Java, Docker, Jenkins CI/CD, Linux, Microservices, Databases, Search Engines, Data Pipelines
-- **Key Achievements:**
-  - Improved system security and stability by implementing modern solutions.
-  - Reduced system downtime by 40% through efficient CI/CD pipelines.
+**Ascalon, Abu Dhabi** | *Feb 2020 – Present*
+- Designed and implemented a digital forensics system with advanced encryption and containerized microservices (Java, Docker), ensuring compliance with governmental security standards.
+- Delivered 15+ microservices with REST APIs, reducing latency by 30% and improving interoperability.
+- Introduced SOLID principles and structured code reviews, cutting code-related incidents by 40%.
+- Boosted system uptime by 25% via Linux resource optimization and high-availability strategies.
+- Authored technical documentation, reducing onboarding time by 20%.
 
 ### Lead Java Developer & DevOps Engineer
-**Menu Group UK LTD, Yerevan** | *08/2018 - 02/2020*
-- Developed a high-load dispatching system, enhancing performance by 30%.
-- Established and managed CI/CD pipelines using GitLab.
-- Led the development and deployment processes, ensuring smooth operations.
-- **Technologies:** Java, AWS, GitLab CI/CD, High-Load Systems, Linux, Databases
-- **Key Achievements:**
-  - Reduced deployment and testing time by 50% through automation.
-  - Increased system stability with automated testing and moving to cloud solutions like AWS.
-  - Increased system scalability, handling peak increases in user traffic.
+**Menu Group UK LTD, Yerevan** | *Aug 2018 – Feb 2020*
+- Architected a high-load dispatching system, managing full development and deployment lifecycle.
+- Built a GitLab CI/CD pipeline with automated testing, cutting deployment times by 50% and increasing coverage by 35%.
 
 ### Senior Java Developer
-**LLC Vocalize, Moscow** | *07/2017 - 08/2018*
-- Developed an AI-based virtual call center, reducing call handling time by 25%.
-- Managed a team of 6 developers, overseeing project milestones and deliverables.
-- **Technologies:** Java, AI, VoiceXML, Avaya
-- **Key Achievements:**
-  - Successfully integrated AI, improving customer satisfaction by 30%.
-  - Led a team to deliver the project two months ahead of schedule.
+**LLC Vocalize, Moscow** | *Jul 2017 – Aug 2018*
+- Created an AI-powered virtual call center using Avaya VoIP gateway, boosting call automation efficiency.
+- Led a 6-engineer agile team, improving delivery timelines and team productivity.
 
 ### Middle Java Developer & DevOps
-**T-Solutions, Yerevan** | *12/2016 - 08/2017*
-- Deployed high-load telecommunications applications on AWS.
-- Configured VoIP gateways using Asterisk.
-- **Technologies:** Java, AWS, Asterisk
-- **Key Achievements:**
-  - Optimized application performance, reducing latency by 20%.
-  - Enhanced system reliability with robust AWS configurations.
+**T-Solutions, Yerevan** | *Dec 2016 – Aug 2017*
+- Developed and deployed AWS-hosted telecom apps capable of handling high data volumes with low latency.
+- Configured Asterisk VoIP gateway, enhancing call throughput for high-traffic environments.
 
 ### Outsource Java Developer
-**Self-Employed, Yerevan** | *01/2015 - 08/2017*
-- Delivered custom software solutions for various clients, meeting all deadlines and specifications.
-- **Technologies:** Java, Custom Software Development
-- **Key Achievements:**
-  - Developed over 10 custom applications, all delivered on time.
-  - Maintained a 100% client satisfaction rate.
+**Freelance, Yerevan** | *Jan 2015 – Aug 2017*
+- Delivered custom software projects, ensuring timely delivery and adherence to technical requirements.
 
 ### Senior System Administrator
-**Beeline Armenia, Yerevan** | *07/2015 - 01/2017*
-- Administered switch control systems and managed Oracle databases.
-- **Technologies:** Oracle, CRM, Billing System
-- **Key Achievements:**
-  - Improved database performance through optimization techniques for update delivery.
-  - Successfully migrated legacy systems with zero downtime.
+**Beeline Armenia, Yerevan** | *Jul 2015 – Jan 2017*
+- Managed Switch Control systems, Oracle databases, and CRM, increasing reliability and performance.
 
-### Rewriter, SMM Specialist, Project Manager, Editor
-**Naked-Science Magazine, Yerevan** | *08/2012 - 02/2015*
-- Led a column, promoted social networks, and developed online communities.
-- **Technologies:** Social Media Management
-- **Key Achievements:**
-  - Increased social media engagement by 50%.
-  - Developed a successful content strategy, growing readership by 30%.
+### Rewriter / SMM Specialist / Editor
+**Naked-Science Magazine, Yerevan** | *Aug 2012 – Feb 2015*
+- Led a science column, grew online readership, and boosted social media engagement.
 
 ---
 
 ## Education
 
-**Bachelor of Science in Computer Science**
-*National University of Architecture and Construction, Yerevan* | *Graduated: 10/2016*
+**B.Sc. in Computer Science**
+*National University of Architecture and Construction, Yerevan* | *Graduated: 2016*
 
 ---
 
-## Certifications
-- **Certified Java Developer**
-- **AWS Certified Solutions Architect**
-- **Certified Kubernetes Administrator (CKA)**
+## Notable Projects
 
----
+### QResto
+Multi-tenant B2B menu/payment platform for restaurants, coffee shops, and vending machines. Built using Go, Kubernetes, and cloud-native architecture with flexible CMS and secure payment integration.
 
-## Languages
-- Russian (Fluent)
-- Armenian (Native)
-- English (B2)
-
----
-
-## Professional Development
-- Completed advanced courses in AI and Machine Learning.
-- Attended workshops on secure coding practices.
-
----
-
-## Personal Projects
-1. **IoT Solution "4bit":**
-   - Founded and architected a full-cycle IoT solution using FreeRTOS, AWS Greengrass, and STM32 microcontrollers.
-   - Implemented graphic and ML acceleration, ensuring seamless operation.
-
-2. **Restaurant Menu and Payment Startup qresto.io:**
-   - Founded and architected a full-cycle restaurant menu and payment management solution with advanced data analysis based on LLM.
-   - Full development, deployment, and testing implementation.
-
----
-
-## Personal Interests
-- Enjoy reading SyFy and professional books.
-- Passionate about running and maintaining an active lifestyle.
-- Enjoy solving interesting tasks in LeetCode.
+### AI Call Automation Platform
+Telecom solution integrating NLP and VoIP, automating thousands of daily calls with high accuracy.
