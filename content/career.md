@@ -57,10 +57,6 @@ Innovative Senior Java & Go Developer with 10+ years of experience in high-load 
 - Developed and deployed AWS-hosted telecom apps capable of handling high data volumes with low latency.
 - Configured Asterisk VoIP gateway, enhancing call throughput for high-traffic environments.
 
-### Outsource Java Developer
-**Freelance, Yerevan** | *Jan 2015 – Aug 2017*
-- Delivered custom software projects, ensuring timely delivery and adherence to technical requirements.
-
 ### Senior System Administrator
 **Beeline Armenia, Yerevan** | *Jul 2015 – Jan 2017*
 - Managed Switch Control systems, Oracle databases, and CRM, increasing reliability and performance.
