@@ -3,6 +3,8 @@ title: "Projects"
 draft: false
 ---
 
+I build systems that turn complex data into practical tools – from real-world flow analysis and computer vision to scalable APIs and intelligent platforms – focused on efficiency, clarity, and real impact.
+
 ## QResto
 
 - **Description**: Multi-tenant B2B menu/payment platform for restaurants, coffee shops, and vending machines. Helps restaurants turn every table into a fast, seamless, self-service sales channel.
