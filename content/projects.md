@@ -9,11 +9,11 @@ draft: false
 - **URL**: [qresto.io](https://qresto.io)
 - **Tags**: #B2B #AWS #Fintech #Payments
 
-## 4bit
+## BSync
 
-- **Description**: A full-cycle IoT solution based on FreeRTOS, AWS Greengrass, and STM32 microcontrollers with graphic and ML acceleration.
-- **URL**: [4bit.dev](https://4bit.dev)
-- **Tags**: #IoT #FreeRTOS #AWSGreengrass #STM32 #ML #Graphics
+- **Description**:Bsync is a fast, secure, and reliable proxy for OpenAI and LLaMA APIs. It provides authentication, model routing, and a unified access point for multiple inference servers (Slurm and others), with support for streaming, media, and request limiting.
+- **URL**: [bsync.dev](https://bsync.dev)
+- **Tags**: #LLM #OpenAI #Proxy
 
 ## Cuckoos
 
