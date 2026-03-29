@@ -18,6 +18,10 @@ draft: false
 - **Description**: The web application visualizes potential Longines lifestyle options based on scientific research through a short lifestyle questionnaire.
 - **URL**: [cuckoos.io](https://cuckoos.io)
 
+## Uniflow 360
+- **Description**: A computer vision platform that analyzes movement across real-world environments – traffic, crowds, and shared spaces – to predict behavior and optimize flow in real time.
+- **URL**: [uniflow360.io](https://uniflow360.io)
+
 ## CodeMechanics
 
 - **Description**: A personal blog and podcast where I share my in-depth insights about the IT industry.
