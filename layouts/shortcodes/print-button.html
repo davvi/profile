@@ -1,0 +1,20 @@
+<button onclick="window.print()" style="
+  padding: 8px 20px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--code-bg);
+  color: var(--primary);
+  cursor: pointer;
+  font-size: 14px;
+  transition: opacity 0.2s;
+" onmouseover="this.style.opacity='0.7'" onmouseout="this.style.opacity='1'">
+  Print / Save as PDF
+</button>
+
+<style>
+  @media print {
+    header, footer, nav, .post-nav-links, button[onclick="window.print()"] {
+      display: none !important;
+    }
+  }
+</style>
