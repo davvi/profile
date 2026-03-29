@@ -8,6 +8,7 @@ draft: false
 ---
 
 **Contact Information:**
+- **Name:** Sargisyan Davit
 - **Email:** hi@davvi.io
 - **Location:** Abu Dhabi, UAE
 - **LinkedIn:** [linkedin.com/in/dsargisyan](https://www.linkedin.com/in/dsargisyan/)
