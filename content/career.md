@@ -3,6 +3,8 @@ title: "Senior Java & Go Developer | DevOps Engineer"
 draft: false
 ---
 
+{{< print-button >}}
+
 ---
 
 **Contact Information:**
