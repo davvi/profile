@@ -57,11 +57,11 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    subtitle: "🌟 Hi there! Explore my deep-dive insights on my blog 💻, listen to my first steps into tech talks on my podcast 🎙, and view my professional journey on my pet projects 📄. Connect, learn, and be inspired! 🚀"
+    subtitle: "Engineer driven by curiosity about data, systems, and self-improvement, focused on building simple, reliable solutions and continuously refining both code and mindset."
     imageUrl: avatar.png
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Davvi
     buttons:
       - name: Blog & Podcast
         url: https://codemech.dev
@@ -72,7 +72,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:contact@davvi.io"
+      url: "mailto:hi@davvi.io"
     - name: github
       url: "https://github.com/davvi"
     - name: linkedin
